@@ -31,7 +31,7 @@ móvil............Flutter (iOS + Android)
 Backend...........Firebase / Supabase
 
 ## Roadmap 
-✅ Prototipo Visual        — Abril 2025
+✅ Prototipo Visual        — Completado
    UI/UX completa, demo navegable en Flutter.
    Vista del trabajador: feed de trabajos, perfil, cartera.
 
