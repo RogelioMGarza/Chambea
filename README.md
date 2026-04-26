@@ -1,18 +1,6 @@
 # Chambea
 "Plataforma digital para el trabajo informal en México — para conectar jardineros, albañiles y más con trabajos"
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## El Problema
+En México, millones de personas trabajan como empleadas del hogar, jardineros, albañiles, cuidadores y otros oficios bajo una economía completamente informal. Se contratan de boca en boca, cobran en efectivo y no tienen forma de demostrar su experiencia o construir una reputación que los acompañe. Del lado del empleador, encontrar a alguien de confianza es igual de difícil: no hay referencias verificables, no hay historial, no hay garantía de pago ni de cumplimiento.
+El resultado es un mercado opaco, sin protección para ninguna de las dos partes, que mueve miles de millones de pesos al año completamente fuera del sistema digital.
