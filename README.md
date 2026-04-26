@@ -1,4 +1,5 @@
-# flutter_application_1
+# Chambea
+"Plataforma digital para el trabajo informal en México — para conectar jardineros, albañiles y más con trabajos"
 
 A new Flutter project.
 
