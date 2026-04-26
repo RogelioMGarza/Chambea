@@ -12,7 +12,44 @@ Los pagos se realizan directamente desde la app a través de integraciones con f
 ## ¿Qué hace la app?
 Chambea tiene dos tipos de usuario: trabajador y empleador. Desde la vista del trabajador, la app permite:
 
-Explorar chambas disponibles filtradas por categoría (hogar, construcción, exterior, cuidados, seguridad) y con información clara de pago por visita, por día, por semana o por mes
-Ver el detalle de cada trabajo con ubicación, horario, pago garantizado y datos del empleador
-Construir un perfil digital con calificaciones, trabajos completados, habilidades verificadas y badges de confianza (INE, cuenta bancaria, teléfono)
-Gestionar pagos desde la cartera con retiros a BBVA, Mercado Pago u OXXO Pay
+-Explorar chambas disponibles filtradas por categoría (hogar, construcción, exterior, cuidados, seguridad) y con información clara de pago por visita, por día, por semana o por mes
+-Ver el detalle de cada trabajo con ubicación, horario, pago garantizado y datos del empleador
+-Construir un perfil digital con calificaciones, trabajos completados, habilidades verificadas y badges de confianza (INE, cuenta bancaria, teléfono)
+-Gestionar pagos desde la cartera con retiros a BBVA, Mercado Pago u OXXO Pay
+
+## ¿Por qué ahora?
+Dos tendencias hacen que este momento sea el ideal para Chambea:
+
+Penetración de smartphones: más del 75% de los mexicanos ya cuenta con un teléfono inteligente, según datos del INEGI, y la cifra sigue creciendo año con año.
+Inclusión financiera: de acuerdo con la Encuesta Nacional de Inclusión Financiera (ENIF), el porcentaje de mexicanos con cuenta bancaria ha crecido consistentemente en la última década, impulsado por fintechs, CoDi y DiMo.
+
+La infraestructura ya está llegando. Chambea está lista para cuando lo haga.
+
+## Tech Stack
+Capa.............TecnologíaApp 
+móvil............Flutter (iOS + Android)
+Backend...........Firebase / Supabase
+
+## Roadmap 
+✅ Prototipo Visual        — Abril 2025
+   UI/UX completa, demo navegable en Flutter.
+   Vista del trabajador: feed de trabajos, perfil, cartera.
+
+⬜ Prototipo Funcional     — Próxima etapa
+   Autenticación real de usuarios (trabajador / empleador).
+   Publicación y aplicación a trabajos en tiempo real.
+   Integración de pagos con Conekta o Clip.
+   Verificación de identidad (INE).
+
+⬜ Beta Privada            — Por definir
+   Prueba con usuarios reales en una ciudad.
+   Sistema de calificaciones bidireccional.
+   Notificaciones push.
+
+⬜ Lanzamiento             — Por definir
+   Expansión a más categorías y ciudades.
+   Historial financiero exportable para acceso a crédito.
+
+## Autor
+Rogelio Garza
+Ingeniería en Tecnologías Computacionales — Tecnológico de Monterrey
